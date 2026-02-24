@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-&la7$(0na2&0cmik*8yooh@+7j)mk2!wh5#)t^o$&hzt)z##3w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['nurture-nexus.onrender.com']
 
 
 # Application definition
